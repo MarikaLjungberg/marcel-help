@@ -2715,7 +2715,7 @@ css-select@^2.0.0:
     boolbase "^1.0.0"
     css-what "^2.1.2"
     domutils "^1.7.0"
-    nth-check "^1.0.2"
+    nth-check "^2.0.1"
 
 css-select@^4.1.3:
   version "4.2.1"
@@ -5131,9 +5131,9 @@ minimatch@3.0.4, minimatch@^3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimist@0.0.8:
-  version "0.0.8"
-  resolved "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
+minimist@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.3.tgz#857fcabfc3397d2625b8228262e86aa7a011b05d"
 
 minimist@^1.1.1, minimist@^1.2.0:
   version "1.2.0"
@@ -5231,9 +5231,9 @@ npm-run-path@^4.0.1:
   dependencies:
     path-key "^3.0.0"
 
-nth-check@^1.0.2:
+nth-check@^2.0.1:
   version "1.0.2"
-  resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-1.0.2.tgz#b2bd295c37e3dd58a3bf0700376663ba4d9cf05c"
+  resolved "https://registry.yarnpkg.com/nth-check/-/nth-check-2.0.1.tgz#b2bd295c37e3dd58a3bf0700376663ba4d9cf05c"
   dependencies:
     boolbase "~1.0.0"
 
@@ -6009,8 +6009,8 @@ postcss-value-parser@^4.0.2, postcss-value-parser@^4.1.0, postcss-value-parser@^
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz#723c09920836ba6d3e5af019f92bc0971c02e514"
 
-postcss@^7.0.35:
-  version "7.0.39"
+postcss@^8.2.13:
+  version "8.2.13"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.39.tgz#9624375d965630e2e1f2c02a935c82a59cb48309"
   dependencies:
     picocolors "^0.2.1"
