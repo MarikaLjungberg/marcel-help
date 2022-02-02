@@ -15,7 +15,7 @@ class StartPage extends Component {
           <Row className="firstPageButton">
             <Col xs={12} md={6} xsOffset={3} mdOffset={3}>
               <Button className="giveHelp" bsSize="large" block>
-                Give help
+                <Link to={`/choose-username`}>Give help</Link>
               </Button>
             </Col>
             </Row>
