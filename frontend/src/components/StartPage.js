@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Row, Col, Button } from 'react-bootstrap';
+import {Link} from "react-router-dom";
 
 class StartPage extends Component {
 
